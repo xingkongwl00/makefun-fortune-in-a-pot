@@ -1,6 +1,6 @@
 from pathlib import Path
 
-"""A one-line fortune for a houseplant, for a make.fun bounty."""
+"""Write a single, kind one-line fortune for a houseplant to /output/entry.txt."""
 
 JOKE = "I told my fern its future is bright. It has been dark in that corner since March."
 
